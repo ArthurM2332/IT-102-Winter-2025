@@ -1,0 +1,5 @@
+Name: fake
+Favorite color: fake
+First pet's name: fake
+Mother's maiden name: fake
+Elementary school: fake
