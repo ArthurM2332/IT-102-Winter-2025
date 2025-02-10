@@ -36,5 +36,4 @@ def guess_password(shadow_file, password_file):
     else:
         print("\nNo passwords were found or cracked")
 
-# Run the function
-guess_password(SHADOW_FILE, PASSWORD_FILE)
+guess_password(SHADOW_FILE, PASSWORD_FILE) 
