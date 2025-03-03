@@ -3,7 +3,7 @@ from collections import Counter
 
 log_file_path = "/home/justincase/Desktop/IT-102-Winter-2025/Assignments 1-5/access.log"
 
-log_pattern = r'"[A-Z]+ [^"]+ HTTP/1\.[01]" (\d{3}'
+log_pattern = r'"[A-Z]+ [^"]+ HTTP/1\.[01]" (\d{3})'
 
 with open(log_file_path, "r") as file:
     logs = file.readlines()
